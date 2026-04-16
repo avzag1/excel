@@ -1,0 +1,1 @@
+export type Action = 'Click' | 'UploadFile'
